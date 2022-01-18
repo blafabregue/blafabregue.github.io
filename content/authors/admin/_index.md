@@ -1,7 +1,7 @@
 ---
 title: Baptiste Lafabregue
 role: Postdoc in Artificial Intelligence
-avatar_filename: profilpicture.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -29,13 +29,14 @@ education:
     - course: PhD in Computer Science
       institution: Université de Haute Alsace
       year: 2021
-    - course: Msc in Computer Science Engineering 
-      institution: École Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise (ENSIIE)
+    - course: Msc in Computer Science Engineering
+      institution: École Nationale Supérieure d'Informatique pour l'Industrie et
+        l'Entreprise (ENSIIE)
       year: 2014
     - course: BSc in Computer Science
       institution: Université de Strasbourg
       year: 2012
-email: "lafabregue@unistra.fr"
+email: lafabregue@unistra.fr
 superuser: true
 highlight_name: true
 ---
