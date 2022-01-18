@@ -1,6 +1,6 @@
 ---
 title: Baptiste Lafabregue
-role: Postdoc in Data Mining on Temporal data
+role: Postdoc in Artificial Intelligence
 avatar_filename: profilpicture.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -40,6 +40,6 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Computer Science reseracher in Artificial Intelligence, with a specialty in Clustering and Time Series analysis. I work on a.
+I am a Computer Science reseracher in Artificial Intelligence, with a specialty in Clustering and Time Series analysis. I work on general time series data with also some more specific application on remote sensing. I am currently a Adjunct Professor (ATER) at the Université de Strasbourg and ICube Laboratory. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
