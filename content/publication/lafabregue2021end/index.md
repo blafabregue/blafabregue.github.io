@@ -1,18 +1,14 @@
 ---
-title: "Constrained distance based clustering for time-series: a comparative and experimental study"
+title: "End-to-end deep representation learning for time series clustering: a comparative study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Lampert Thomas
-- Dao Thi-Bich-Hanh
 - admin
-- Serrette Nicolas
-- Forestier Germain
-- Crémilleux Bruno
-- Vrain Christel
+- Weber Jonathan
 - Gançarski Pierre
+- Forestier Germain
 
 date: "2018-30-05T00:00:00Z"
 doi: "https://doi.org/10.1007/s10618-018-0573-y"
