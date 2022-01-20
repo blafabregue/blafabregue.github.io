@@ -1,7 +1,7 @@
 ---
 title: Baptiste Lafabregue
 role: Postdoc in Artificial Intelligence
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
