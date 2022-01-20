@@ -38,7 +38,7 @@ experience:
     location: Mulhouse, France
     date_start: '2018-01-09'
     date_end: '2021-31-08'
-    description: Thesis subject \: Constrained Clustering and Deep Learning for time series analysis \- applied to incremental approaches and remote sensing time series
+    description: Thesis subject %3A Constrained Clustering and Deep Learning for time series analysis \- applied to incremental approaches and remote sensing time series
 
   - title: Research Engineer
     company: Université de Strasbourg (ICube Lab)
