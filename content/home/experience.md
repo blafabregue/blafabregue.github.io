@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.unistra.fr/'
     company_logo: unistra
     location: Strasbourg, France
-    date_start: '2021-01-09'
+    date_start: '2021-09-01'
     date_end: ''
     description: Taught for Bsc in Computer Science and researched time series clustering.
 
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.uha.fr/'
     company_logo: UHA
     location: Mulhouse, France
-    date_start: '2018-01-09'
-    date_end: '2021-31-08'
+    date_start: '2018-09-01'
+    date_end: '2021-08-31'
     description: Thesis subject %3A Constrained Clustering and Deep Learning for time series analysis \- applied to incremental approaches and remote sensing time series
 
   - title: Research Engineer
@@ -45,8 +45,8 @@ experience:
     company_url: 'https://www.unistra.fr/'
     company_logo: unistra
     location: Strasbourg, France
-    date_start: '2018-01-09'
-    date_end: '2021-31-08'
+    date_start: '2018-09-01'
+    date_end: '2021-08-31'
     description: |2-
       Research Engineer in the Science of Data and Knowledge (SDC) team at the ICube research laboratory.    
       Main tasks :

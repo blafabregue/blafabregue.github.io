@@ -10,11 +10,11 @@ authors:
 - Gançarski Pierre
 - Forestier Germain
 
-date: "2018-30-05T00:00:00Z"
+date: "2018-05-30T00:00:00Z"
 doi: "https://doi.org/10.1007/s10618-018-0573-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-11T00:00:00Z"
+publishDate: "2018-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
