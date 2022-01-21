@@ -42,9 +42,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/article/10.1007/s10618-018-0573-y#article-info'
-url_code: ''
-url_dataset: 'https://icube-forge.unistra.fr/lampert/TSCC'
+url_pdf: ''
+url_code: 'https://icube-forge.unistra.fr/lampert/TSCC'
+url_dataset: 'https://www.timeseriesclassification.com/'
 url_poster: ''
 url_project: ''
 url_slides: ''

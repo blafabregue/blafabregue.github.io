@@ -38,8 +38,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://hal.archives-ouvertes.fr/hal-02356722/file/main.pdf'
-url_code: ''
-url_dataset: 'https://icube-forge.unistra.fr/lampert/TSCC'
+url_code: 'https://icube-forge.unistra.fr/lampert/TSCC'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
