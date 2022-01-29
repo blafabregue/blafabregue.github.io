@@ -38,7 +38,8 @@ experience:
     location: Mulhouse, France
     date_start: '2018-09-01'
     date_end: '2021-08-31'
-    description: Thesis subject %3A Constrained Clustering and Deep Learning for time series analysis \- applied to incremental approaches and remote sensing time series
+    description: |-
+      Thesis subject: Constrained Clustering and Deep Learning for time series analysis - applied to incremental approaches and remote sensing time series
 
   - title: Research Engineer
     company: Université de Strasbourg (ICube Lab)
@@ -49,7 +50,7 @@ experience:
     date_end: '2021-08-31'
     description: |2-
       Research Engineer in the Science of Data and Knowledge (SDC) team at the ICube research laboratory.    
-      Main tasks :
+      Main tasks:
       * Re-engineering and maintenance of a clustering and segmentation libraries on remote-sensing images.
       * Collaboration with other teams (SERTIT).
       * Management of intern working on the libraries
