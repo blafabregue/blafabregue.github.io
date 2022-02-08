@@ -7,7 +7,8 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning
   - Time series
-  - Clustering and constraints
+  - Clustering 
+  - Contraints
 social:
   - icon: envelope
     icon_pack: fas
