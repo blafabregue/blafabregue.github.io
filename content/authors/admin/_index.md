@@ -8,7 +8,6 @@ interests:
   - Machine Learning
   - Time series
   - Clustering 
-  - Contraints
 social:
   - icon: envelope
     icon_pack: fas
