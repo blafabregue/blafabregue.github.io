@@ -29,7 +29,11 @@ experience:
     location: Strasbourg, France
     date_start: '2021-09-01'
     date_end: ''
-    description: Taught for Bsc in Computer Science and researched time series clustering.
+    description: |2-
+      * Teaching for BSc in Computer Science. 
+      * Research on time series clustering.
+      * Managment of two MSc research projects
+
 
   - title: PhD candidate
     company: Université de Haute Alsace
@@ -46,14 +50,25 @@ experience:
     company_url: 'https://www.unistra.fr/'
     company_logo: unistra
     location: Strasbourg, France
-    date_start: '2018-09-01'
-    date_end: '2021-08-31'
+    date_start: '2016-09-01'
+    date_end: '2018-08-31'
     description: |2-
-      Research Engineer in the Science of Data and Knowledge (SDC) team at the ICube research laboratory.    
+      Research Engineer in the Science of Data and Knowledge (SDC) team at the ICube research laboratory.
       Main tasks:
       * Re-engineering and maintenance of a clustering and segmentation libraries on remote-sensing images.
-      * Collaboration with other teams (SERTIT).
-      * Management of intern working on the libraries
+      * Collaboration with other remote sening experts (SERTIT).
+      * Management of interns working on the libraries
+
+  - title: Project Manager and Consultant
+    company: Talent Business Solutions
+    company_url: 'https://www.talent-bs.com/'
+    company_logo: tbs
+    location: Strasbourg, France
+    date_start: '2014-09-01'
+    date_end: '2016-08-31'
+    description: |2-
+      *  Managment of multiple ERP deployment projects (Microsoft Dynamics NAV): analysis, conception, deployment, support for multiple customers. Main projects: Spitzer Eurovrac (30 users), Caldera Graphics (30 users), Pharmacie Nouvelle Ltd (60 users).
+      * Managment of developers for each projects.
 
 
 design:
