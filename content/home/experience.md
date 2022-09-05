@@ -32,18 +32,18 @@ experience:
     description: |2-
       * Teaching for BSc and Msc in Computer Science. 
       * Research on time series clustering.
+      * 
   - title: Lecturer (ATER)
     company: Université de Strasbourg
     company_url: 'https://www.unistra.fr/'
     company_logo: unistra
     location: Strasbourg, France
     date_start: '2021-09-01'
-    date_end: '31/08/2022'
+    date_end: '2022-08-31'
     description: |2-
       * Teaching for BSc in Computer Science. 
       * Research on time series clustering.
       * Managment of two MSc research projects
-
 
   - title: PhD candidate
     company: Université de Haute Alsace
