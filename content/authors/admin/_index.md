@@ -2,11 +2,11 @@
 title: Baptiste Lafabregue
 role: Associate Professor in Artificial Intelligence
 avatar_filename: avatar.jpg
-bio: 
+bio: My research interests are mainly on time series analysis and collaborative clustering.
 interests:
   - Machine Learning
   - Time series
-  - Clustering 
+  - Collaborative clustering 
 social:
   - icon: envelope
     icon_pack: fas
