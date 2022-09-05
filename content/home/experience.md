@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: ATER
+  - title: Associate Professor of Computer Science
+    company: Université de Strasbourg
+    company_url: 'https://www.unistra.fr/'
+    company_logo: unistra
+    location: Strasbourg, France
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+      * Teaching for BSc and Msc in Computer Science. 
+      * Research on time series clustering.
+  - title: Lecturer (ATER)
     company: Université de Strasbourg
     company_url: 'https://www.unistra.fr/'
     company_logo: unistra
     location: Strasbourg, France
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '31/08/2022'
     description: |2-
       * Teaching for BSc in Computer Science. 
       * Research on time series clustering.
